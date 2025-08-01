@@ -52,14 +52,22 @@
 </div>
 
 ### 1차 프로젝트
-
+##### 프로젝트 소개
+  - 도서관리 시스템
+##### 개발환경
+  - Spring boot
+  - Thymeleaf
+  - JPA
+  - JavaScript
+  - Ajax
+  - Html/css
 <a href="https://github.com/JinProjects/40db">1차 프로젝트 이동하기</a>
 
-* 담당역할
+##### 담당역할
   - 관리자 회원관리
   - 알라딘 api를 이용한 도서 CRUD
   - 전체 DB 설계, 샘플데이터 작성 및 관리
-* 주요기능
+##### 주요기능
 
 <table>
   <tr>
