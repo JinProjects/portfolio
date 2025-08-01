@@ -1,72 +1,54 @@
-# Intro
-이름 : 최영진
+# 👨‍💻 풀스택 개발자 포트폴리오
+> **"침착한 대응과 책임감을 갖춘 개발자"** <br>
+> 안녕하세요.<br>
+> 어떤 상황에서도 침착하게 대응하고, <br>책임감을 갖고 프로젝트를 
+완수하는 <br>개발자가 되는 것을 목표로 하고 있습니다.
 
-최종학력 : 인천대학교 정보통신공학과
+## 📌About Me
 
-#### 👨‍🦱소개 
-
-안녕하세요.
-
-어떤 상황에서도 침착하게 대응하고, 책임감을 갖고 프로젝트를 
+- 이름 : 최영진
+- 이메일: during4277@gmail.com
+- GitHub: [JinProjects](https://github.com/JinProjects)
+- 1차 프로젝트 : <a href="https://github.com/JinProjects/40db">도서관리 시스템</a>
+- 2차 프로젝트 : <a href="https://github.com/dpflaalee/sseudamsseudam">반려동물 SNS 프로젝트</a>
+- 3차 프로젝트 : <a href="https://github.com/syeon279/tripPaw">반려동물과 동반 여행 플랫폼 </a>
       
-완수하는 개발자가 되는 것을 목표로 하고 있습니다.
-      
-#### ✏기술역량 
-<div align=left> 
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <br>
-  
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-  <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
-  <br>
-  
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"> 
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
-  <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
-  <img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
-  <br>
+## 🛠️Skills 
+| 분야             | 기술 및 버전 | 설명 및 CS 관점 |
+|------------------|-----------------------------|------------------|
+| **Frontend**     | HTML5, CSS3, JavaScript (ES6+), React 18, Bootstrap 5, Ant Design 4.x | **DOM 구조와 렌더링 최적화**, **CSR/SSR 차이**, **이벤트 버블링**, **비동기 처리 (Promise, async/await)** 숙련 |
+| **Backend**      | Java 11, Spring Boot 2.7.14, Spring Security 5, JPA, MyBatis 8.0.42 | **HTTP 프로토콜**, **RESTful 설계 원칙**, **인증/인가 흐름**, **트랜잭션 처리**, **ORM vs SQL 직접 제어**에 대한 이해 |
+| **Mobile**       | Flutter 3.10, Dart | **위젯 트리 구조**, **상태 관리 방식 (Provider, Riverpod)**, **API 통신 및 비동기 처리** |
+| **Infra**        | AWS (EC2, RDS, S3), Redis 7 | **클라우드 인프라 구성**, **Redis 세션 관리 및 토큰 블랙리스트 처리**, **CORS 정책 이해** |
+| **Database**     | MySQL 8.0, Oracle 11c | **인덱스 최적화**, **JOIN 전략**, **정규화/비정규화**, **트랜잭션 격리 수준**, **SQL Injection 방어** |
+| **협업 도구**    | Git 2.42, GitHub, SourceTree | **Git Flow 전략**, **충돌 해결 경험**, **PR 리뷰 및 코드 품질 관리** |
 
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
-  <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
-  <br>
-  
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/fontawesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white">
-  <br>
-</div>
+---
 
-### 1차 프로젝트
+## 📚 Education & Certification
+
+- **AI 활용 풀스택 부트캠프** (2025.02 ~ 2025.08, 더조은 컴퓨터아카데미)
+- **정보처리기사**, **SQLD**, **컴퓨터활용능력 1급 필기** 등 자격 보유
+
+---
+
+## 🚀 Project: 도서관리 시스템
+> 도서관리 시스템의 대여/반납, 사용자 상태 관리 등 <br>직접 설계하고 구현했습니다.
 <details>
       
 <summary>접기/펼치기</summary>
 
 ##### 프로젝트 소개
-  - 도서관리 시스템
-  - <a href="https://github.com/JinProjects/40db">1차 프로젝트 이동</a>
+  - Spring boot, Thymeleaf, JPA를 이용한 도서관리 시스템
 ##### 개발환경
-  - Spring boot
+  - Spring boot 2.7.14
+  - Spring Security 5
   - Thymeleaf
   - JPA
   - JavaScript
   - Ajax
-  - Html/css
-  - mysql
+  - Html5 / css3
+  - mysql 8.0.42
 
 ##### 담당역할
   - 관리자 회원관리
@@ -89,7 +71,8 @@
   </tr>
 </table>
 
-#### 💣트러블슈팅
+### 💣트러블슈팅 사례
+#### 📌 1. Git 디렉토리 중복 생성으로 인한 Pull 실패 문제 해결
 
   * 오류
  
@@ -107,7 +90,8 @@
    
     - 프로젝트 중간에 오류를 발견해 개발 시간이 지연되어 아쉬웠지만, Git 사용에 대한 이해도 향상
 ---
-
+#### 📌 2. Thymeleaf 권한별 조건부 페이지 렌더링 구현 방안 개선
+ 
  * 오류
  
    - Thymeleaf에서 회원/관리자 권한 별로 페이지 렌더링하는 문제에서 구현 방안 부족
@@ -126,7 +110,7 @@
 
 
 
-#### 협업 및 소감
+#### 💬 협업 및 소감
 - 예상치 못 한 오류가 발생했지만 오류를 해결하면서 한단계 발전 된 개발자로 성장할 수 있는 기회였습니다.
 
 </details>
@@ -170,6 +154,42 @@
   - 회원가입 시 coolSMS API를 이용한 휴대폰 인증 구현
     
 #### 💣트러블슈팅
+
+  * 오류
+ 
+    - 트윗글의 프로필 이미지 불러왔을 때 트윗글이 바로 등록이 안되는 이슈 발생
+  
+  * 원인분석
+ 
+    - Sequelize include 작성하는 로직 미흡
+  
+  * 문제해결
+ 
+    - User테이블과 UserProfileImage테이블을 join하여 트윗글 작성 시 바로 등록되도록 문제 해결
+  
+  * 결과
+   
+    - 조인 로직 수정 후 트윗이 정상적으로 동작하게 되었고, Sequelize의 include 활용 능력 향상
+      
+---
+
+  * 오류
+ 
+    - 회원가입 이후 프로필 이미지를 등록하려 할 때, 이미지 저장 시점이 명확하지 않아 정상적으로 처리되지 않는 문제 발생
+  
+  * 원인분석
+ 
+    - 프로필 이미지 저장 시점을 결정하는데 필요한 요구사항 분석이 부족하여, 회원가입과 이미지 등록 간의 관계 처리 미흡
+  
+  * 문제해결
+ 
+    - 회원가입 시 UserProfileImage 테이블에 기본값(빈 값)을 먼저 insert하도록 처리하고, 이 후 프로필 수정 시 이미지 데이터를 update하는 방식으로 로직 수정하여 문제 해결
+  
+  * 결과
+   
+    - 회원가입 이후에도 프로필 이미지를 안정적으로 등록할 수 있게 되었고, 사용자 정보와 관련된 테이블 흐름과 상태 관리에 대한 이해도 향상
+---
+
 
 #### 협업 및 소감
 
