@@ -134,6 +134,9 @@
 ---
 ---
 ### 2차 프로젝트
+<details>
+      <summary>접고/펼치기</summary>
+
 ##### 프로젝트 소개
   - React와 Nodejs를 이용한 반려동물SNS 
   - <a href="https://github.com/dpflaalee/sseudamsseudam">2차 프로젝트 이동</a>
@@ -170,10 +173,19 @@
 
 #### 협업 및 소감
 
+</details>
+
 ---
 ---
 ### 3차 프로젝트
+
+<details>
+      <summary>접고/펼치기</summary>
+      
 * 담당역할
 * 트러블슈팅
 * 협업 및 소감
+
+</details>
+
 ---
