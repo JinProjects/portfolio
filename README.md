@@ -3,7 +3,7 @@
 
 최종학력 : 인천대학교 정보통신공학과
 
-#### 소개 
+#### 👨‍🦱소개 
 
 안녕하세요.
 
@@ -11,7 +11,7 @@
       
 완수하는 개발자가 되는 것을 목표로 하고 있습니다.
       
-#### 기술역량 
+#### ✏기술역량 
 <div align=left> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -53,7 +53,7 @@
 
 ### 1차 프로젝트
 
-<a href="https://github.com/JinProjects/40db" target="_blank">1차 프로젝트 이동하기</a>
+<a href="https://github.com/JinProjects/40db">1차 프로젝트 이동하기</a>
 
 * 담당역할
   - 관리자 회원관리
@@ -76,7 +76,7 @@
   </tr>
 </table>
 
-#### 트러블슈팅
+#### 💣트러블슈팅
 
   * 오류
  
@@ -114,7 +114,7 @@
 
 
 #### 협업 및 소감
-
+- 예상치 못 한 오류가 발생했지만 오류를 해결하면서 한단계 발전 된 개발자로 성장할 수 있는 기회였습니다.
   
 ---
 ---
