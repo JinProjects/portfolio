@@ -4,6 +4,8 @@
 > 어떤 상황에서도 침착하게 대응하고, <br>책임감을 갖고 프로젝트를 
 완수하는 <br>개발자가 되는 것을 목표로 하고 있습니다.
 
+---
+
 ## 📌About Me
 
 - 이름 : 최영진
@@ -12,7 +14,9 @@
 - 1차 프로젝트 : <a href="https://github.com/JinProjects/40db">도서관리 시스템</a>
 - 2차 프로젝트 : <a href="https://github.com/dpflaalee/sseudamsseudam">반려동물 SNS 프로젝트</a>
 - 3차 프로젝트 : <a href="https://github.com/syeon279/tripPaw">반려동물과 동반 여행 플랫폼 </a>
-      
+
+---
+
 ## 🛠️Skills 
 | 분야             | 기술 및 버전 | 설명 및 CS 관점 |
 |------------------|-----------------------------|------------------|
@@ -58,16 +62,16 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/1fb72202-5da6-47a8-a4c6-a9b9f405a151" width="200" height="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/675c1eb5-b7f5-4d11-820a-de39ec63e15b" width="200" height="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/70a4c402-3b86-4f35-9e82-9c94cc67128c" width="200" height="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/cb86a6fd-25b9-4b91-b6bb-8a0d00a947d4" width="200" height="200"></td>
-  </tr>
-  <tr>
     <td align="center">도서검색</td>
     <td align="center">도서관리</td>
     <td align="center">도서등록</td>
     <td align="center">회원관리</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/1fb72202-5da6-47a8-a4c6-a9b9f405a151" width="200" height="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/675c1eb5-b7f5-4d11-820a-de39ec63e15b" width="200" height="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/70a4c402-3b86-4f35-9e82-9c94cc67128c" width="200" height="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/cb86a6fd-25b9-4b91-b6bb-8a0d00a947d4" width="200" height="200"></td>
   </tr>
 </table>
 
