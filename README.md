@@ -52,8 +52,13 @@
 </div>
 
 ### 1차 프로젝트
+<details>
+      
+<summary>접기/펼치기</summary>
+
 ##### 프로젝트 소개
   - 도서관리 시스템
+  - <a href="https://github.com/JinProjects/40db">1차 프로젝트 이동</a>
 ##### 개발환경
   - Spring boot
   - Thymeleaf
@@ -61,7 +66,7 @@
   - JavaScript
   - Ajax
   - Html/css
-<a href="https://github.com/JinProjects/40db">1차 프로젝트 이동하기</a>
+  - mysql
 
 ##### 담당역할
   - 관리자 회원관리
@@ -123,13 +128,48 @@
 
 #### 협업 및 소감
 - 예상치 못 한 오류가 발생했지만 오류를 해결하면서 한단계 발전 된 개발자로 성장할 수 있는 기회였습니다.
-  
+
+</details>
+
 ---
 ---
 ### 2차 프로젝트
-* 담당역할
-* 트러블슈팅
-* 협업 및 소감
+##### 프로젝트 소개
+  - React와 Nodejs를 이용한 반려동물SNS 
+  - <a href="https://github.com/dpflaalee/sseudamsseudam">2차 프로젝트 이동</a>
+##### 개발환경
+  - Node.js
+  - React
+  - Sequelize
+  - Javascript
+  - mysql
+  - css
+
+##### 주요기능
+
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/7abdabb2-7b82-4495-bf15-daf2a0800c90" width="200" height="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/95c7e2a7-7a2f-438c-b205-bde6903f8f32" width="200" height="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/1b2554aa-bbdf-4e11-bf7a-455deb7d15dc" width="200" height="200"></td>
+  </tr>
+  <tr>
+    <td align="center">로그인</td>
+    <td align="center">이미지 업로드</td>
+    <td align="center">마이페이지와 팔로우, 팔로잉</td>
+  </tr>
+</table>
+
+##### 담당역할
+  - 세션을 이용한 로그인 구현
+  - 회원 간의 팔로우/팔로잉 구현
+  - 메인 페이지에서 게시글 목록을 렌더링할 때, 각 사용자에 대한 프로필 이미지 데이터를 함께 불러오도록 구현
+  - 회원가입 시 coolSMS API를 이용한 휴대폰 인증 구현
+    
+#### 💣트러블슈팅
+
+#### 협업 및 소감
+
 ---
 ---
 ### 3차 프로젝트
