@@ -53,7 +53,7 @@
 
 ### 1차 프로젝트
 
-<a href="https://github.com/JinProjects/40db" target=blank>1차 프로젝트 이동하기</a>
+<a href="https://github.com/JinProjects/40db" target="_blank">1차 프로젝트 이동하기</a>
 
 * 담당역할
   - 관리자 회원관리
