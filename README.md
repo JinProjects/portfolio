@@ -36,7 +36,7 @@
 > 도서관리 시스템의 대여/반납, 사용자 상태 관리 등 <br>직접 설계하고 구현했습니다.
 <details>
       
-<summary>접기/펼치기</summary>
+<summary>소개 펼치기</summary>
 
 ##### 프로젝트 소개
   - Spring boot, Thymeleaf, JPA를 이용한 도서관리 시스템
@@ -136,14 +136,14 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/7abdabb2-7b82-4495-bf15-daf2a0800c90" width="200" height="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/95c7e2a7-7a2f-438c-b205-bde6903f8f32" width="200" height="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/1b2554aa-bbdf-4e11-bf7a-455deb7d15dc" width="200" height="200"></td>
-  </tr>
-  <tr>
     <td align="center">로그인</td>
     <td align="center">이미지 업로드</td>
     <td align="center">마이페이지와 팔로우, 팔로잉</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/7abdabb2-7b82-4495-bf15-daf2a0800c90" width="200" height="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/95c7e2a7-7a2f-438c-b205-bde6903f8f32" width="200" height="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/1b2554aa-bbdf-4e11-bf7a-455deb7d15dc" width="200" height="200"></td>
   </tr>
 </table>
 
