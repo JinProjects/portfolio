@@ -65,10 +65,10 @@
     <td align="center">회원관리</td>
   </tr>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/1fb72202-5da6-47a8-a4c6-a9b9f405a151" width="200" height="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/675c1eb5-b7f5-4d11-820a-de39ec63e15b" width="200" height="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/70a4c402-3b86-4f35-9e82-9c94cc67128c" width="200" height="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/cb86a6fd-25b9-4b91-b6bb-8a0d00a947d4" width="200" height="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/72d314c1-56ac-481d-8725-f8632f6a960e" width="200" height="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/8a4f5f90-7aa3-4f22-b24a-07ae9f18e1b8" width="200" height="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/053b69d2-ae75-4bb4-9aaa-de12a86ef0e3" width="200" height="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/a55f8133-4f2d-4363-b15d-ce0d99956419" width="200" height="200"></td>
   </tr>
 </table>
 
