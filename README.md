@@ -11,9 +11,9 @@
 - 이름 : 최영진
 - 이메일: during4277@gmail.com
 - GitHub: [JinProjects](https://github.com/JinProjects)
-- 1차 프로젝트 : <a href="https://github.com/JinProjects/40db">도서관리 시스템</a>
-- 2차 프로젝트 : <a href="https://github.com/dpflaalee/sseudamsseudam">반려동물 SNS 프로젝트</a>
-- 3차 프로젝트 : <a href="https://github.com/syeon279/tripPaw">반려동물과 동반 여행 플랫폼 </a>
+- 1차 프로젝트 github : <a href="https://github.com/JinProjects/40db">도서관리 시스템</a>
+- 2차 프로젝트 github : <a href="https://github.com/dpflaalee/sseudamsseudam">반려동물 SNS 프로젝트</a>
+- 3차 프로젝트 github : <a href="https://github.com/syeon279/tripPaw">반려동물과 동반 여행 플랫폼 </a>
 
 ---
 
@@ -151,8 +151,8 @@
   - 메인 페이지에서 게시글 목록을 렌더링할 때, 각 사용자에 대한 프로필 이미지 데이터를 함께 불러오도록 구현
   - 회원가입 시 coolSMS API를 이용한 휴대폰 인증 구현
     
-#### 💣트러블슈팅
-
+#### 💣트러블슈팅사례
+#### 📌 1. 트윗글 등록 시 프로필 이미지 로딩 지연 문제 해결
   * 오류
  
     - 트윗글의 프로필 이미지 불러왔을 때 트윗글이 바로 등록이 안되는 이슈 발생
@@ -170,7 +170,7 @@
     - 조인 로직 수정 후 트윗이 정상적으로 동작하게 되었고, Sequelize의 include 활용 능력 향상
       
 ---
-
+#### 📌 2. 회원가입 후 프로필 이미지 등록 시점 불명확 문제 해결
   * 오류
  
     - 회원가입 이후 프로필 이미지를 등록하려 할 때, 이미지 저장 시점이 명확하지 않아 정상적으로 처리되지 않는 문제 발생
@@ -190,16 +190,113 @@
 
 
 #### 협업 및 소감
-
+ - 단순한 업무 분담을 넘어서, 작업 맥락을 공유하고 함께 개선해 나갈 수 있는 협업 환경을 만들어가는 개발자가 되는 것이 목표
 
 ---
 ---
 ### 3차 프로젝트
-
+##### 프로젝트 소개
+  - 반려동물 동반 여행 플랫폼 
+  - <a href="https://github.com/syeon279/tripPaw">3차 프로젝트 이동</a>
+##### 개발환경
+  - Spring Boot 2.7.14
+  - Sprint Security 5
+  - React 18.3.1
+  - Mysql 8.0.42
+  - MyBatis
+  - Javascript
+  - html5
+  - css3
       
-* 담당역할
-* 트러블슈팅
-* 협업 및 소감
+##### 담당역할
+- 로그인 시 사용자 권한 부여
+- JWT 기반 유저 정보 추출 로직 개발
+- redis를 이용하여 토큰 탈취 위험에 대한 블랙리스트 토큰 등록하여 사용자 보안 강화
+- 호텔 예약을 하는 사용자들과 실시간 커뮤니케이션을 위한 채팅 개발
 
+##### 주요기능
+
+<table>
+  <tr>
+    <td align="center">로그인</td>
+    <td align="center">로그아웃</td>
+    <td align="center">이메일 인증</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/3513697b-4573-45ea-9550-adb8bef9910a" width="200" height="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/ed46d9a0-d435-4f05-b81f-0a12ca83e910" width="200" height="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/9f8f7a86-5f97-439e-ad7a-5a14126172c6" width="200" height="200"></td>
+  </tr>
+</table>
+
+#### 트러블슈팅사례
+#### 📌 1. Redis .rdb 파일 저장 실패 (Permission Denied) 문제 해결
+  * 오류
+ 
+    - Redis 서버 실행 시 Failed opening .rdb for saving: Permission denied 에러 발생
+  
+  * 원인분석
+ 
+    - Redis를 C:\Program Files 경로에 설치하면서, 해당 디렉터리의 쓰기 권한 부족으로 인해 .rdb 파일 저장 실패
+  
+  * 문제해결
+ 
+    - 다른 디렉터리로 Redis 폴더를 옮긴 후, 서버를 재시작하여 정상적으로 동작 해결
+  
+  * 결과
+   
+    - 시스템 폴더에 설치 시 발생할 수 있는 권한 문제에 대한 이해력 향상
+#### 📌 2. 회원가입 시 coolsms API 중복 호출 문제 해결
+  * 오류
+ 
+    - 회원가입 시 coolsms api를 두번 호출하는 현상 발생
+  
+  * 원인분석
+ 
+    - Next.js에서 기본 설정으로 활성화된 React Strict Mode가 개발 환경에서 useEffect를 두 번 호출
+  
+  * 문제해결
+ 
+    - useEffect가 한 번만 호출되도록 정상 동작하였으며, React Strict Mode의 작동 방식에 대한
+  
+  * 결과
+   
+    - 소셜 로그인 후에도 JWT 기반 인증이 정상적으로 작동하게 되었으며, OAuth2 인증 흐름과 JWT 발급/처리 방식에 대한 실전 경험과 이해도 향상
+#### 📌 3. 소셜 로그인 후 JWT 토큰 미발급 문제 해결
+  * 오류
+ 
+    - 소셜 로그인 후 사용자 인증은 완료했지만, JWT 토큰이 발급되지 않아 이후 인증 처리 불가
+  
+  * 원인분석
+ 
+    - 소셜 로그인 이후의 흐름에 대한 JWT 발급 로직과 인증 처리에 대한 구현 경험 부족
+  
+  * 문제해결
+ 
+    - Oauth2LoginSuccessHandler 컴포넌트를 생성하여 소셜 로그인 성공 시 JWT 토큰을 발급하고, 이를 쿠키에 저장하여 클라이언트가 인증 상태를 유지할 수 있도록 로직을 구현
+  
+  * 결과
+   
+    - 소셜 로그인 후에도 JWT 기반 인증이 정상적으로 작동하게 되었으며, OAuth2 인증 흐름과 JWT 발급/처리 방식에 대한 실전 경험과 이해도 향상
+#### 📌 4. 비밀번호 재설정 시 일회용 인증 토큰 검증 실패 문제 해결
+  * 오류
+ 
+    - 비밀번호 재설정 기능에서 일회용 인증 토큰 발급 및 검증 절차가 제대로 동작하지 않아 사용자 인증과 비밀번호 변경이 정상적으로 이루어지지 않는 문제 발생
+  
+  * 원인분석
+ 
+    - 비밀번호 재설정용 일회용 토큰 발급 및 인증 흐름에 대한 설계 경험 부족으로, 토큰의 발급,저장,검증 과정이 명확하게 구현되지 않음
+  
+  * 문제해결
+ 
+    - 사용자의 이메일을 기반으로 JWT 토큰을 발급한 뒤, 해당 토큰을 Redis에 등록하여 관리, 이후 사용자가 토큰을 통해 인증 요청을 하면, Redis에 저장된 토큰 정보를 조회하여 사용자 인증 및 비밀번호 변경을 처리하는 방식으로 문제 해결
+  
+  * 결과
+   
+    - JWT 기반 인증 흐름과 Redis를 활용한 일회용 토큰 관리 방식에 대한 실무 이해도 향상
+
+#### 협업 및 소감
+* 팀원들로부터 받은 의견을 바탕으로 로직을 수정하거나 구조를 다시 설계한 경험
+향후 다짐: 맡은 역할 이상의 시야로 프로젝트의 흐름을 이해하며 신뢰받는 팀원이 되도록 노력하겠습니다.
 
 ---
