@@ -229,7 +229,7 @@
   </tr>
 </table>
 
-#### 트러블슈팅사례
+####  💣트러블슈팅사례
 #### 📌 1. Redis .rdb 파일 저장 실패 (Permission Denied) 문제 해결
   * 오류
  
