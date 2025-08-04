@@ -136,13 +136,16 @@
   - mysql 8.0.42
 #### 주요기능
 ##### 1.로그인
-<a href=""><img src="https://github.com/user-attachments/assets/7abdabb2-7b82-4495-bf15-daf2a0800c90"></a>
+<a href="https://youtu.be/vzn6q-E6iac?si=r60_CydDXAIh9zmM"><img src="https://github.com/user-attachments/assets/44dccd6e-2714-40ac-8c72-e1a7ec56e979"></a>
 
-##### 2.이미지 업로드
-<img src="https://github.com/user-attachments/assets/95c7e2a7-7a2f-438c-b205-bde6903f8f32">
+##### 2.프로필 및 이미지 수정
+<a href="https://youtu.be/vzn6q-E6iac?si=uHv6vVTdGYevrVHU&t=57"><img src="https://github.com/user-attachments/assets/4ef5b9b7-4039-412a-a514-4b9f6afb1234"></a>
 
-##### 3.마이페이지와 팔로우, 팔로잉
-<img src="https://github.com/user-attachments/assets/1b2554aa-bbdf-4e11-bf7a-455deb7d15dc">
+##### 3.비밀번호 변경
+<a href="https://youtu.be/vzn6q-E6iac?si=8fUV2GiFCS_qA2Mq&t=110"><img src="https://github.com/user-attachments/assets/5560ab9e-22bf-47ae-ba3e-c4fdd00bae67"></a>
+
+##### 3.팔로우, 팔로잉
+<a href="https://youtu.be/vzn6q-E6iac?si=FSIxthuMxPKyX2jB&t=218"><img src="https://github.com/user-attachments/assets/c260c324-a147-4c5f-a058-cf04a1aa0e23"></a>
 
 ##### 담당역할
   - 세션을 이용한 로그인 구현
