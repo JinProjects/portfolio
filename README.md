@@ -17,6 +17,13 @@
 
 ---
 
+## 📚 Education & Certification
+
+- **AI 활용 풀스택 부트캠프** (2025.02 ~ 2025.08, 더조은 컴퓨터아카데미)
+- **정보처리기사**, **SQLD**, **컴퓨터활용능력 1급 필기** 등 자격 보유
+
+---
+
 ## 🛠️Skills 
 | 분야             | 기술 및 버전 | 설명 및 CS 관점 |
 |------------------|-----------------------------|------------------|
@@ -26,13 +33,6 @@
 | **Infra**        | AWS (EC2, RDS, S3), Redis 7 | **클라우드 인프라 구성**, **Redis 세션 관리 및 토큰 블랙리스트 처리**, **CORS 정책 이해** |
 | **Database**     | MySQL 8.0, Oracle 11c | **인덱스 최적화**, **JOIN 전략**, **정규화/비정규화**, **트랜잭션 격리 수준**, **SQL Injection 방어** |
 | **협업 도구**    | Git 2.42, GitHub, SourceTree | **Git Flow 전략**, **충돌 해결 경험**, **PR 리뷰 및 코드 품질 관리** |
-
----
-
-## 📚 Education & Certification
-
-- **AI 활용 풀스택 부트캠프** (2025.02 ~ 2025.08, 더조은 컴퓨터아카데미)
-- **정보처리기사**, **SQLD**, **컴퓨터활용능력 1급 필기** 등 자격 보유
 
 ---
 ## 📈 Career Goals
@@ -59,26 +59,22 @@
   - Html5 / css3
   - mysql 8.0.42
 
-##### 담당역할
+#### 담당역할
   - 관리자 회원관리
   - 알라딘 api를 이용한 도서 CRUD
   - 전체 DB 설계, 샘플데이터 작성 및 관리
-##### 주요기능
+#### 주요기능
+##### 1.도서검색
+<img src="https://github.com/user-attachments/assets/72d314c1-56ac-481d-8725-f8632f6a960e">
 
-<table>
-  <tr>
-    <td align="center">도서검색</td>
-    <td align="center">도서관리</td>
-    <td align="center">도서등록</td>
-    <td align="center">회원관리</td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/72d314c1-56ac-481d-8725-f8632f6a960e" width="200" height="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/8a4f5f90-7aa3-4f22-b24a-07ae9f18e1b8" width="200" height="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/053b69d2-ae75-4bb4-9aaa-de12a86ef0e3" width="200" height="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/a55f8133-4f2d-4363-b15d-ce0d99956419" width="200" height="200"></td>
-  </tr>
-</table>
+##### 2.도서관리
+<img src="https://github.com/user-attachments/assets/8a4f5f90-7aa3-4f22-b24a-07ae9f18e1b8">
+
+##### 3.도서등록
+<img src="https://github.com/user-attachments/assets/053b69d2-ae75-4bb4-9aaa-de12a86ef0e3">
+
+##### 4.회원관리
+<img src="https://github.com/user-attachments/assets/a55f8133-4f2d-4363-b15d-ce0d99956419">
 
 ### 💣트러블슈팅 사례
 #### 📌 1. Git 디렉토리 중복 생성으로 인한 Pull 실패 문제 해결
@@ -131,27 +127,22 @@
   - React와 Nodejs를 이용한 반려동물SNS 
   - <a href="https://github.com/dpflaalee/sseudamsseudam">2차 프로젝트 이동</a>
 ##### 개발환경
-  - Node.js
-  - React
-  - Sequelize
+  - Node.js 22.16.0
+  - React 18.3.1
+  - css3
+  - antd 4.x
   - Javascript
-  - mysql
-  - css
+  - Sequelize 6.37.7
+  - mysql 8.0.42
+#### 주요기능
+##### 1.로그인
+<a href=""><img src="https://github.com/user-attachments/assets/7abdabb2-7b82-4495-bf15-daf2a0800c90"></a>
 
-##### 주요기능
+##### 2.이미지 업로드
+<img src="https://github.com/user-attachments/assets/95c7e2a7-7a2f-438c-b205-bde6903f8f32">
 
-<table>
-  <tr>
-    <td align="center">로그인</td>
-    <td align="center">이미지 업로드</td>
-    <td align="center">마이페이지와 팔로우, 팔로잉</td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/7abdabb2-7b82-4495-bf15-daf2a0800c90" width="200" height="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/95c7e2a7-7a2f-438c-b205-bde6903f8f32" width="200" height="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/1b2554aa-bbdf-4e11-bf7a-455deb7d15dc" width="200" height="200"></td>
-  </tr>
-</table>
+##### 3.마이페이지와 팔로우, 팔로잉
+<img src="https://github.com/user-attachments/assets/1b2554aa-bbdf-4e11-bf7a-455deb7d15dc">
 
 ##### 담당역할
   - 세션을 이용한 로그인 구현
@@ -226,20 +217,19 @@ User와 UserProfileImage 간의 관계를 명확하게 처리하지 않아 데�
 - redis를 이용하여 토큰 탈취 위험에 대한 블랙리스트 토큰 등록하여 사용자 보안 강화
 - 호텔 예약을 하는 사용자들과 실시간 커뮤니케이션을 위한 채팅 개발
 
-##### 주요기능
+#### 주요기능
+##### 1.로그인&로그아웃
+<a href="https://youtu.be/Yb4b0vNmzp0?si=thLJc4e0FlYCtict"><img src="https://github.com/user-attachments/assets/72d314c1-56ac-481d-8725-f8632f6a960e"></a>
 
-<table>
-  <tr>
-    <td align="center">로그인</td>
-    <td align="center">로그아웃</td>
-    <td align="center">이메일 인증</td>
-  </tr>
-  <tr>
-    <td><img src="https://github.com/user-attachments/assets/3513697b-4573-45ea-9550-adb8bef9910a" width="200" height="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/ed46d9a0-d435-4f05-b81f-0a12ca83e910" width="200" height="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/9f8f7a86-5f97-439e-ad7a-5a14126172c6" width="200" height="200"></td>
-  </tr>
-</table>
+##### 2.회원가입
+<a href="https://youtu.be/Yb4b0vNmzp0?si=J8ibLFG--I9IhyGQ&t=34"><img src="https://github.com/user-attachments/assets/053b69d2-ae75-4bb4-9aaa-de12a86ef0e3"></a>
+
+
+##### 3.이메일 인증
+<a href="https://youtu.be/Yb4b0vNmzp0?si=hwl18jPowMNW71Mi&t=89"><img src="https://github.com/user-attachments/assets/8a4f5f90-7aa3-4f22-b24a-07ae9f18e1b8"></a>
+
+##### 4.채팅
+<a href="https://youtu.be/Yb4b0vNmzp0?si=m8YKMEI6jUbCuJwP&t=140"><img src="https://github.com/user-attachments/assets/a55f8133-4f2d-4363-b15d-ce0d99956419"></a>
 
 ####  💣트러블슈팅사례
 #### 📌 1. Redis .rdb 파일 저장 실패 (Permission Denied) 문제 해결
