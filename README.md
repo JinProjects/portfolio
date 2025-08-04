@@ -63,7 +63,7 @@
   - 관리자 회원관리
   - 알라딘 api를 이용한 도서 CRUD
   - 전체 DB 설계, 샘플데이터 작성 및 관리
-#### 주요기능
+#### 주요기능 (클릭 시 해당 영상으로 이동)
 ##### 1.회원관리
 <a href="https://youtu.be/zBVnSdEOSFI?si=KlYeOCl3dNJSDAdz&t=15"><img src="https://github.com/user-attachments/assets/72d314c1-56ac-481d-8725-f8632f6a960e"></a>
 
@@ -134,7 +134,7 @@
   - Javascript
   - Sequelize 6.37.7
   - mysql 8.0.42
-#### 주요기능
+#### 주요기능 (클릭 시 해당 영상으로 이동)
 ##### 1.로그인
 <a href="https://youtu.be/vzn6q-E6iac?si=r60_CydDXAIh9zmM"><img src="https://github.com/user-attachments/assets/44dccd6e-2714-40ac-8c72-e1a7ec56e979"></a>
 
@@ -220,7 +220,7 @@ User와 UserProfileImage 간의 관계를 명확하게 처리하지 않아 데�
 - redis를 이용하여 토큰 탈취 위험에 대한 블랙리스트 토큰 등록하여 사용자 보안 강화
 - 호텔 예약을 하는 사용자들과 실시간 커뮤니케이션을 위한 채팅 개발
 
-#### 주요기능
+#### 주요기능 (클릭 시 해당 영상으로 이동)
 ##### 1.로그인&로그아웃
 <a href="https://youtu.be/Yb4b0vNmzp0?si=thLJc4e0FlYCtict"><img src="https://github.com/user-attachments/assets/338ee0e3-a5c3-4753-b642-77424f02843f"></a>
 
