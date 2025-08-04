@@ -64,17 +64,17 @@
   - 알라딘 api를 이용한 도서 CRUD
   - 전체 DB 설계, 샘플데이터 작성 및 관리
 #### 주요기능
-##### 1.도서검색
-<img src="https://github.com/user-attachments/assets/72d314c1-56ac-481d-8725-f8632f6a960e">
+##### 1.회원관리
+<a href="https://youtu.be/zBVnSdEOSFI?si=jOKnzv2b2ucmwRYh"><img src="https://github.com/user-attachments/assets/72d314c1-56ac-481d-8725-f8632f6a960e"></a>
 
-##### 2.도서관리
-<img src="https://github.com/user-attachments/assets/8a4f5f90-7aa3-4f22-b24a-07ae9f18e1b8">
+##### 2.도서검색
+<a href="https://youtu.be/zBVnSdEOSFI?si=CrhbsfiKsLdC--Jl&t=62"><img src="https://github.com/user-attachments/assets/a55f8133-4f2d-4363-b15d-ce0d99956419"></a>
 
 ##### 3.도서등록
-<img src="https://github.com/user-attachments/assets/053b69d2-ae75-4bb4-9aaa-de12a86ef0e3">
+<a href="https://youtu.be/zBVnSdEOSFI?si=e8P8rRURQ72McwmD"><img src="https://github.com/user-attachments/assets/053b69d2-ae75-4bb4-9aaa-de12a86ef0e3"></a>
 
-##### 4.회원관리
-<img src="https://github.com/user-attachments/assets/a55f8133-4f2d-4363-b15d-ce0d99956419">
+##### 4.도서관리
+<a href="https://youtu.be/zBVnSdEOSFI?si=YZd1o29mpEclnd2x"><img src="https://github.com/user-attachments/assets/8a4f5f90-7aa3-4f22-b24a-07ae9f18e1b8"></a>
 
 ### 💣트러블슈팅 사례
 #### 📌 1. Git 디렉토리 중복 생성으로 인한 Pull 실패 문제 해결
