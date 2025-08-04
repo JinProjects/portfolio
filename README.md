@@ -65,7 +65,7 @@
   - 전체 DB 설계, 샘플데이터 작성 및 관리
 #### 주요기능
 ##### 1.회원관리
-<a href="https://youtu.be/zBVnSdEOSFI?si=jOKnzv2b2ucmwRYh"><img src="https://github.com/user-attachments/assets/72d314c1-56ac-481d-8725-f8632f6a960e"></a>
+<a href="https://youtu.be/zBVnSdEOSFI?si=KlYeOCl3dNJSDAdz&t=15"><img src="https://github.com/user-attachments/assets/72d314c1-56ac-481d-8725-f8632f6a960e"></a>
 
 ##### 2.도서검색
 <a href="https://youtu.be/zBVnSdEOSFI?si=CrhbsfiKsLdC--Jl&t=62"><img src="https://github.com/user-attachments/assets/a55f8133-4f2d-4363-b15d-ce0d99956419"></a>
