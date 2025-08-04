@@ -219,17 +219,17 @@ User와 UserProfileImage 간의 관계를 명확하게 처리하지 않아 데�
 
 #### 주요기능
 ##### 1.로그인&로그아웃
-<a href="https://youtu.be/Yb4b0vNmzp0?si=thLJc4e0FlYCtict"><img src="https://github.com/user-attachments/assets/72d314c1-56ac-481d-8725-f8632f6a960e"></a>
+<a href="https://youtu.be/Yb4b0vNmzp0?si=thLJc4e0FlYCtict"><img src="https://github.com/user-attachments/assets/338ee0e3-a5c3-4753-b642-77424f02843f"></a>
 
 ##### 2.회원가입
-<a href="https://youtu.be/Yb4b0vNmzp0?si=J8ibLFG--I9IhyGQ&t=34"><img src="https://github.com/user-attachments/assets/053b69d2-ae75-4bb4-9aaa-de12a86ef0e3"></a>
+<a href="https://youtu.be/Yb4b0vNmzp0?si=J8ibLFG--I9IhyGQ&t=34"><img src="https://github.com/user-attachments/assets/59f8fa26-e1a5-439a-bcf3-20b50be33152"></a>
 
 
 ##### 3.이메일 인증
-<a href="https://youtu.be/Yb4b0vNmzp0?si=hwl18jPowMNW71Mi&t=89"><img src="https://github.com/user-attachments/assets/8a4f5f90-7aa3-4f22-b24a-07ae9f18e1b8"></a>
+<a href="https://youtu.be/Yb4b0vNmzp0?si=hwl18jPowMNW71Mi&t=89"><img src="https://github.com/user-attachments/assets/79083993-b7d7-4e32-b384-2f77c6265a19"></a>
 
 ##### 4.채팅
-<a href="https://youtu.be/Yb4b0vNmzp0?si=m8YKMEI6jUbCuJwP&t=140"><img src="https://github.com/user-attachments/assets/a55f8133-4f2d-4363-b15d-ce0d99956419"></a>
+<a href="https://youtu.be/Yb4b0vNmzp0?si=m8YKMEI6jUbCuJwP&t=140"><img src="https://github.com/user-attachments/assets/58d0d45e-ceb3-459d-832d-200416cfa40a"></a>
 
 ####  💣트러블슈팅사례
 #### 📌 1. Redis .rdb 파일 저장 실패 (Permission Denied) 문제 해결
