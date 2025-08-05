@@ -28,10 +28,10 @@
 | 분야             | 기술 및 버전 | 설명 및 CS 관점 |
 |------------------|-----------------------------|------------------|
 | **Frontend**     | HTML5, CSS3, JavaScript (ES6+), React 18, Bootstrap 5, Ant Design 4.x | **DOM 구조와 렌더링 최적화**, **CSR/SSR 차이**, **이벤트 버블링**, **비동기 처리 (Promise, async/await)** 숙련 |
-| **Backend**      | Java 11, Spring Boot 2.7.14, Spring Security 5, JPA, MyBatis 8.0.42 | **HTTP 프로토콜**, **RESTful 설계 원칙**, **인증/인가 흐름**, **트랜잭션 처리**, **ORM vs SQL 직접 제어**에 대한 이해 |
+| **Backend**      | Java 11, Spring Boot 2.7.14, Spring Security 5, JPA, MyBatis 8.0.42, WebSocket (STOMP) | **HTTP 프로토콜**, **RESTful 설계 원칙**, **인증/인가 흐름**, **트랜잭션 처리**, **ORM vs SQL 직접 제어**에 대한 이해, pub/sub 구조, 비동기 메시징 흐름, Spring에서의 실시간 통신 처리에 대한 이해 |
 | **Mobile**       | Flutter 3.10, Dart | **위젯 트리 구조**, **상태 관리 방식 (Provider, Riverpod)**, **API 통신 및 비동기 처리** |
 | **Infra**        | AWS (EC2, RDS, S3), Redis 7 | **클라우드 인프라 구성**, **Redis 세션 관리 및 토큰 블랙리스트 처리**, **CORS 정책 이해** |
-| **Database**     | MySQL 8.0, Oracle 11c | **인덱스 최적화**, **JOIN 전략**, **정규화/비정규화**, **트랜잭션 격리 수준**, **SQL Injection 방어** |
+| **Database**     | MySQL 8.0, Oracle 11c | **JOIN 전략**, **정규화/비정규화**, **트랜잭션 격리 수준** |
 | **협업 도구**    | Git 2.42, GitHub, SourceTree | **Git Flow 전략**, **충돌 해결 경험**, **PR 리뷰 및 코드 품질 관리** |
 
 ---
